@@ -9,13 +9,13 @@
 
 ## Sample I/O
 
-![options](/sample_screenshots/options.png)
+![options](/sample_screenshots/options.PNG)
 options
 
-![train_details](/sample_screenshots/train_details.png)
+![train_details](/sample_screenshots/train_details.PNG)
 train details
 
-![confirmation](/sample_screenshots/confirmation.png)
+![confirmation](/sample_screenshots/confirmation.PNG)
 confirmation of reservation
 
 ![cancel](/sample_screenshots/cancel.png)
