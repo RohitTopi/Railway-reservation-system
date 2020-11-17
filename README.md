@@ -1,4 +1,4 @@
-# Railway reservation system in C. 
+# Railway reservation system in C
 
 ## Functionalities supported include
 1.	Reservation of seats / book a ticket.
